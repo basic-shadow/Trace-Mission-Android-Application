@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.registration">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/application_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Workspace_Android_application">
+        <activity
+            android:name=".Register_Account_Activity"
+            android:label="@string/app_fullname"/>
+        <activity
+            android:name=".Assignment_Edit_Text"
+            android:label="@string/assignments_edit_text"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Assignments_Activity"
+            android:label="@string/assignments_activity" />
+        <activity
+            android:name=".Project_Directories"
+            android:label="@string/project_directory_activity" />
+        <activity
+            android:name=".Goals_Days_Edit"
+            android:label="@string/goals_day_activity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Goals_Activity"
+            android:label="@string/goals_activity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".TaskName_Activity"
+            android:label="@string/task_activity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".AllTasksActivity"
+            android:label="@string/all_tasks_activity" />
+        <activity
+            android:name=".Projects_Activity"
+            android:label="@string/all_projects_activity" />
+        <activity android:name=".Tasks_Activity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_fullname" />
+        <activity
+            android:name=".AppLoginEntrance"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

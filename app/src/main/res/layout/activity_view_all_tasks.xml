@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_gradient"
+    android:hapticFeedbackEnabled="true"
+    android:orientation="vertical"
+    tools:context=".AllTasksActivity"
+    >
+
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/refresh_in_tasks"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true">
+
+        <LinearLayout
+            android:id="@+id/Tasks_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="39dp"
+            android:layout_marginBottom="80dp"
+            android:orientation="vertical">
+
+            <ListView
+                android:id="@+id/list_tasks"
+                style="@style/CustomListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginHorizontal="40dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/background_gradient"
+                android:backgroundTint="#A3C2FF"
+                android:divider="@color/black"
+                android:dividerHeight="2dp"
+                android:elevation="15dp">
+
+            </ListView>
+
+        </LinearLayout>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <Button
+        android:id="@+id/remove_Tasks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="80dp"
+        android:layout_marginBottom="35dp"
+        android:background="#FFFFFF"
+        android:backgroundTint="#DF6B6B"
+        android:elevation="30dp"
+        android:text="DELETE"
+        android:textColor="@color/black" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btn_addTasks2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="35dp"
+        android:backgroundTint="#0B85E3"
+        android:clickable="true"
+        android:elevation="30dp"
+        app:rippleColor="#FFFFFF"
+        app:srcCompat="@android:drawable/ic_input_add" />
+
+    <TextView
+        android:id="@+id/txtRemover"
+        android:layout_width="176dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="4dp"
+        android:background="#8D9DF4"
+        android:backgroundTint="#8193FA"
+        android:text="Select Item to Delete"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

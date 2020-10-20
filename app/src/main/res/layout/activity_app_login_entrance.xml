@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AppLoginEntrance">
+
+    <EditText
+        android:layout_width="235dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/phone_number_entrance"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:hint="Enter Phone Number"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginTop="130dp"/>
+
+    <EditText
+        android:layout_width="235dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/password_entrance"
+        android:inputType="textPassword"
+        android:layout_below="@+id/phone_number_entrance"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:hint="Password"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/sign_up_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sign_in_btn"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_toRightOf="@+id/non_editable_in_Login"
+        android:text="Sign Up"
+        android:textColor="#2662DA"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/non_editable_in_Login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sign_in_btn"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="50dp"
+        android:text="New to App?"
+        android:textColor="#447185"
+        android:textSize="14sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/password_entrance"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:text="Sign In"
+        android:textColor="@color/white"
+        android:background="@color/lightBlue"
+        android:id="@+id/sign_in_btn"/>
+
+    <TextView
+        android:id="@+id/wrong_entrance"
+        android:layout_width="270dp"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:background="#F4C3A4"
+        android:text="Sorry, couldn't find your account. Please try again, or create new account"
+        android:textSize="13sp"
+        android:visibility="gone"/>
+
+</RelativeLayout>

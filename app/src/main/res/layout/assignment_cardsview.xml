@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/assignments_cards"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="5dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginHorizontal="25dp"
+    android:backgroundTint="#38BCFA">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img_assignment"
+            android:layout_width="160dp"
+            android:layout_height="120dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/assignment_name_dir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_assignment"
+            android:layout_alignStart="@+id/assignmentDirectory"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="98dp"
+            android:layout_marginTop="9dp"
+            android:layout_marginEnd="70dp"
+            android:layout_marginBottom="10dp"
+            android:text="Assignment"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="#CFCFCF" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_assignment"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="7dp"
+            android:text="Directory"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginStart="25dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/assignmentDirectory"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/img_assignment"
+            android:layout_alignBottom="@+id/assignmentDirectory"
+            android:layout_marginBottom="28dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="7dp"
+            android:text="Directory:"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_marginStart="3dp"
+            android:id="@+id/non_editable"/>
+
+        <TextView
+            android:id="@+id/remove_assignmentBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/assignmentDirectory"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="137dp"
+            android:text="Delete"
+            android:textColor="#CC1D1D"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            android:layout_marginBottom="-12dp"/>
+
+    </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>

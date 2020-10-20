@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TMission</string>
+    <string name="app_fullname">Trace Mission</string>
+    <string name="all_tasks_activity">All Tasks Activity</string>
+    <string name="task_activity">Tasks Activity</string>
+    <string name="all_projects_activity">All Projects Activity</string>
+    <string name="project_directory_activity">Projects -> Directory</string>
+    <string name="directory_tasks_activity">Directories -> Assignments</string>
+    <string name="goals_activity">Goals Activity</string>
+    <string name="goals_day_activity">Manifest the Day</string>
+    <string name="title_activity_tasks">Tasks Activity</string>
+    <string name="register_tasks">Task Register Activity</string>
+    <string name="assignments_activity">Assignments Activity</string>
+    <string name="assignments_edit_text">Assignments Text Editor</string>
+    <string name="login_activity">Login Account</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
