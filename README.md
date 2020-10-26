@@ -2,8 +2,8 @@
 Complex TODO list Android Application created in Android Studio, and its programming part was written mainly in ***Java*** language. Implemented design and layouts of each GUI part in ***XML***. Also, stores the data that is generated in application using ***SQLite*** database in the local storage of the phone.
 
 # Description
-***Trace Mission Application(TMission)*** is availabe on Andoid based phones.
-***TMission*** supports following features:
+***Trace Mission Application(TMission)*** is availabe on Andoid based phones.  
+***TMission*** supports the following features:
 
 - **Tasks(notes)**  
 - **Projects**  
