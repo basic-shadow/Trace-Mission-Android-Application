@@ -16,8 +16,8 @@ Complex TODO list Android Application created in Android Studio, and its program
 ***Goals*** is simply weekly TODO list planner, where you can write your goals for each day of the week to keep track them.
 
 # Features
-- **Track daily goals**
-- **Editable notes for particular group of people**
-- **Seprate directory folders with its own files**
-- **Secure your content of Project**
-- **Accounts for the safety of changes**
+- Track daily goals
+- Editable notes for particular group of people
+- Seprate directory folders with its own files
+- Secure your content of Project
+- Accounts for the safety of changes
