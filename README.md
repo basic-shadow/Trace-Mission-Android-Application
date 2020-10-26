@@ -5,9 +5,9 @@ Complex TODO list Android Application created in Android Studio, and its program
 ***Trace Mission Application(TMission)*** is availabe on Andoid based phones.
 *TMission* supports following features:
 
-**Tasks(notes)**
-**Projects**
-**Goals**
+**Tasks(notes)**  
+**Projects**  
+**Goals**  
 
 ***Tasks*** functionality is designed to assist users to keep notes(*Tasks*), where that particular note can be edited with specifically chosen people, which are chosen by the admin of the note(*who created that Tasks room*).
 
