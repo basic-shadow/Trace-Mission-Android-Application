@@ -11,4 +11,6 @@ Complex TODO list Android Application created in Android Studio, and its program
 
 ***Tasks*** functionality is designed to assist users to keep notes(*Tasks*), where that particular note can be edited with specifically chosen people, which are chosen by the admin of the note(*who created that Tasks room*).
 
-*Projects* is mainly directory, which holds a pin code to access its content. In the *Projects
+***Projects*** is mainly a directory, which holds a pin code to access its content. In the *Projects* you can create additional directories, and in those directories you can create separate files, which would contains its individual contents.
+
+***Goals*** is simply weekly TODO list planner, where you can write your goals for each day of the week to keep track them.
