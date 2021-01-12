@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_goal_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/goal_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_assignmen_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/assignmen_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_assignmen.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/assignmen.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_project_view_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/project_view_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_assignment_cardsview.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/assignment_cardsview.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_assignmen_round.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/assignmen_round.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_goal.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/goal.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_directory.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/directory.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_assignmen_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/assignmen_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_week_day_items.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/week_day_items.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_task.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/task.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_tasks_icon.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/tasks_icon.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_delete.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/delete.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_background_projects.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/background_projects.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_goal_round.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/goal_round.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_task.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/task.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_project_items.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/project_items.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_goal.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/goal.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_project_view_foreground.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/project_view_foreground.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_assignmen.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/assignmen.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_task.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/task.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_register_tasks_name.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/register_tasks_name.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_task_round.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/task_round.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_goals__days__edit.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_goals__days__edit.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_directory.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/directory.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_ic_baseline_add_24.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_application_icon.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/application_icon.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_assignments_.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_assignments_.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_project_view_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/project_view_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_project.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/project.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_assignment__edit__text.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_assignment__edit__text.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_project.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/project.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_directory_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/directory_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_project_view.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/project_view.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_assignmen.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/assignmen.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_task_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/task_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_project.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/project.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_assignmen_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/assignmen_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_ws_items.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/ws_items.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_goals.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/goals.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_directory_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/directory_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_goal_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/goal_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_project_directory_cards.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/project_directory_cards.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_project_view.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/project_view.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_view_all_tasks.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_view_all_tasks.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_assignmen.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/assignmen.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_projects.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_projects.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_application_icon.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/application_icon.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_task.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/task.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/menu_tasks.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/menu/tasks.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_assignmen_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/assignmen_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_general_project_icon.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/general_project_icon.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_task.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/task.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_assignmen_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/assignmen_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_project_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/project_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_project_view_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/project_view_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_gradient.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/gradient.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_application_icon.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/application_icon.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_tasks_.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_tasks_.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_directory.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/directory.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_assignmen.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/assignmen.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_projects_icon.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/projects_icon.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_project_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/project_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_directory_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/directory_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_goal_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/goal_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_task_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/task_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_directory_project.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/directory_project.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_project_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/project_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_goal.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/goal.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_project_view.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/project_view.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_goal.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/goal.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_directory_round.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/directory_round.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_app_login_entrance.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_app_login_entrance.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_task_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/task_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_project_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/project_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_project_view_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/project_view_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_directory.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/directory.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_project.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/project.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_tasks_list_view.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/tasks_list_view.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_application_icon.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/application_icon.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_background_gradient.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/background_gradient.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_project_view.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/project_view.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_goal.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/goal.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_project_view_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/project_view_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_project.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/project.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_project__directories.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_project__directories.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_project_view.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/project_view.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_project.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/project.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_task_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/task_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_directory.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/directory.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_project_round.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/project_round.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_assignmen.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/assignmen.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_project_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/project_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_directory.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/directory.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-hdpi_goal_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-hdpi/goal_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_application_icon.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/application_icon.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-mdpi_task_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-mdpi/task_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xhdpi_directory_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xhdpi/directory_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_goal.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-anydpi-v26/goal.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_directory_round.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxhdpi/directory_round.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_task.png.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/mipmap-xxxhdpi/task.png"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/drawable_assignment.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/drawable/assignment.xml"
+    },
+    {
+        "merged": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/build/intermediates/res/merged/debug/layout_activity_goals__activtity.xml.flat",
+        "source": "/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/res/layout/activity_goals__activtity.xml"
+    }
+]

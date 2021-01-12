@@ -18,6 +18,6 @@ Complex TODO list Android Application created in Android Studio, and its program
 # Features
 - Track daily goals
 - Editable notes for particular group of people
-- Seprate directory folders with its own files
+- Separate directory folders with its own files
 - Secure your content of Project
 - Accounts for the safety of changes

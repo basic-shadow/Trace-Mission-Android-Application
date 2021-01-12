@@ -1,0 +1,124 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.workspace_android_application"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:7:5-57:19
+14        android:allowBackup="true"
+14-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] /home/isla/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/application_icon"
+18-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:9:9-48
+19        android:label="@string/app_name"
+19-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:10:9-41
+20        android:supportsRtl="true"
+20-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Workspace_Android_application" >
+22-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:12:9-67
+23        <activity
+23-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:13:9-15:51
+24            android:name="com.example.registration.Register_Account_Activity"
+24-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:14:13-54
+25            android:label="@string/app_fullname" />
+25-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:15:13-49
+26        <activity
+26-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:16:9-19:58
+27            android:name="com.example.registration.Assignment_Edit_Text"
+27-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:17:13-49
+28            android:label="@string/assignments_edit_text"
+28-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:18:13-58
+29            android:windowSoftInputMode="adjustResize" />
+29-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:19:13-55
+30        <activity
+30-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:20:9-22:60
+31            android:name="com.example.registration.Assignments_Activity"
+31-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:21:13-49
+32            android:label="@string/assignments_activity" />
+32-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:22:13-57
+33        <activity
+33-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:23:9-25:66
+34            android:name="com.example.registration.Project_Directories"
+34-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:24:13-48
+35            android:label="@string/project_directory_activity" />
+35-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:25:13-63
+36        <activity
+36-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:26:9-29:58
+37            android:name="com.example.registration.Goals_Days_Edit"
+37-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:27:13-44
+38            android:label="@string/goals_day_activity"
+38-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:28:13-55
+39            android:windowSoftInputMode="adjustResize" />
+39-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:29:13-55
+40        <activity
+40-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:30:9-33:47
+41            android:name="com.example.registration.Goals_Activity"
+41-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:31:13-43
+42            android:label="@string/goals_activity"
+42-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:32:13-51
+43            android:launchMode="singleTask" />
+43-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:33:13-44
+44        <activity
+44-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:34:9-37:58
+45            android:name="com.example.registration.TaskName_Activity"
+45-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:35:13-46
+46            android:label="@string/task_activity"
+46-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:36:13-50
+47            android:windowSoftInputMode="adjustResize" />
+47-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:37:13-55
+48        <activity
+48-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:38:9-40:58
+49            android:name="com.example.registration.AllTasksActivity"
+49-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:39:13-45
+50            android:label="@string/all_tasks_activity" />
+50-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:40:13-55
+51        <activity
+51-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:41:9-43:61
+52            android:name="com.example.registration.Projects_Activity"
+52-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:42:13-46
+53            android:label="@string/all_projects_activity" />
+53-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:43:13-58
+54        <activity android:name="com.example.registration.Tasks_Activity" />
+54-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:44:9-52
+54-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:44:19-49
+55        <activity
+55-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:45:9-47:52
+56            android:name="com.example.registration.MainActivity"
+56-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:46:13-41
+57            android:label="@string/app_fullname" />
+57-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:47:13-49
+58        <activity
+58-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:48:9-56:20
+59            android:name="com.example.registration.AppLoginEntrance"
+59-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:49:13-45
+60            android:label="@string/app_name" >
+60-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:50:13-45
+61            <intent-filter>
+61-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:51:13-55:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:52:17-69
+62-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:52:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:54:17-77
+64-->/home/isla/Documents/Android/Trace-Mission-Android-Application/app/src/main/AndroidManifest.xml:54:27-74
+65            </intent-filter>
+66        </activity>
+67    </application>
+68
+69</manifest>

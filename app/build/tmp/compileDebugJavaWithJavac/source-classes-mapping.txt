@@ -1,0 +1,102 @@
+com/example/registration/AllTasksActivity.java
+ com.example.registration.AllTasksActivity
+ com.example.registration.AllTasksActivity$1
+ com.example.registration.AllTasksActivity$2
+ com.example.registration.AllTasksActivity$2$1
+ com.example.registration.AllTasksActivity$3
+ com.example.registration.AllTasksActivity$4
+com/example/registration/MainActivity.java
+ com.example.registration.MainActivity
+com/example/registration/Register_Account_Activity.java
+ com.example.registration.Register_Account_Activity
+ com.example.registration.Register_Account_Activity$1
+com/example/registration/Assignment_Edit_Text.java
+ com.example.registration.Assignment_Edit_Text
+ com.example.registration.Assignment_Edit_Text$1
+com/example/registration/TaskName_Activity.java
+ com.example.registration.TaskName_Activity
+ com.example.registration.TaskName_Activity$1
+com/example/registration/AppLoginEntrance.java
+ com.example.registration.AppLoginEntrance
+ com.example.registration.AppLoginEntrance$1
+ com.example.registration.AppLoginEntrance$2
+com/example/registration/WS_items.java
+ com.example.registration.WS_items
+com/example/registration/TasksClass.java
+ com.example.registration.TasksClass
+com/example/registration/ProjectsAdapter.java
+ com.example.registration.ProjectsAdapter
+ com.example.registration.ProjectsAdapter$1
+ com.example.registration.ProjectsAdapter$1$1
+ com.example.registration.ProjectsAdapter$2
+ com.example.registration.ProjectsAdapter$2$1
+ com.example.registration.ProjectsAdapter$2$1$1
+ com.example.registration.ProjectsAdapter$2$1$2
+ com.example.registration.ProjectsAdapter$ViewHolder
+com/example/registration/WSAdapter.java
+ com.example.registration.WSAdapter
+ com.example.registration.WSAdapter$1
+ com.example.registration.WSAdapter$2
+ com.example.registration.WSAdapter$3
+ com.example.registration.WSAdapter$ViewHolder
+com/example/registration/ProjectsDirectoryAdapter.java
+ com.example.registration.ProjectsDirectoryAdapter
+ com.example.registration.ProjectsDirectoryAdapter$1
+ com.example.registration.ProjectsDirectoryAdapter$2
+ com.example.registration.ProjectsDirectoryAdapter$2$1
+ com.example.registration.ProjectsDirectoryAdapter$ViewHolder
+com/example/registration/ProjectsDirectoryClass.java
+ com.example.registration.ProjectsDirectoryClass
+com/example/registration/Goals_Activity.java
+ com.example.registration.Goals_Activity
+ com.example.registration.Goals_Activity$1
+com/example/registration/DataBaseTasks.java
+ com.example.registration.DataBaseTasks
+com/example/registration/Project_Directories.java
+ com.example.registration.Project_Directories
+ com.example.registration.Project_Directories$1
+ com.example.registration.Project_Directories$1$1
+ com.example.registration.Project_Directories$2
+ com.example.registration.Project_Directories$3
+com/example/registration/Tasks_Activity.java
+ com.example.registration.Tasks_Activity
+ com.example.registration.Tasks_Activity$1
+com/example/registration/DataBaseRegisterLogin.java
+ com.example.registration.DataBaseRegisterLogin
+com/example/registration/GoalsAdapter.java
+ com.example.registration.GoalsAdapter
+ com.example.registration.GoalsAdapter$1
+ com.example.registration.GoalsAdapter$ViewHolder
+com/example/registration/AccountsClass.java
+ com.example.registration.AccountsClass
+com/example/registration/ProjectsClass.java
+ com.example.registration.ProjectsClass
+com/example/registration/Assignments_Activity.java
+ com.example.registration.Assignments_Activity
+ com.example.registration.Assignments_Activity$1
+ com.example.registration.Assignments_Activity$1$1
+ com.example.registration.Assignments_Activity$2
+ com.example.registration.Assignments_Activity$3
+com/example/registration/BuildConfig.java
+ com.example.registration.BuildConfig
+com/example/registration/Goals_Days_Edit.java
+ com.example.registration.Goals_Days_Edit
+ com.example.registration.Goals_Days_Edit$1
+com/example/registration/AssignmentAdapter.java
+ com.example.registration.AssignmentAdapter
+ com.example.registration.AssignmentAdapter$1
+ com.example.registration.AssignmentAdapter$2
+ com.example.registration.AssignmentAdapter$2$1
+ com.example.registration.AssignmentAdapter$ViewHolder
+com/example/registration/DataBaseGoals.java
+ com.example.registration.DataBaseGoals
+com/example/registration/Projects_Activity.java
+ com.example.registration.Projects_Activity
+ com.example.registration.Projects_Activity$1
+ com.example.registration.Projects_Activity$1$1
+ com.example.registration.Projects_Activity$2
+ com.example.registration.Projects_Activity$3
+com/example/registration/GoalsClass.java
+ com.example.registration.GoalsClass
+com/example/registration/DataBaseProjects.java
+ com.example.registration.DataBaseProjects
